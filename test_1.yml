@@ -1,0 +1,16 @@
+key: Hola Mundo
+
+person:
+  name: John
+  age: 30
+  city: New York
+  items:
+    - item1
+    - item2
+    - itme3
+
+  items2:
+    - item1: hola
+    - item1: hola
+    - item1: hola
+    
