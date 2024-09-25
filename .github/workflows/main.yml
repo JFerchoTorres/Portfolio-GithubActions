@@ -10,4 +10,4 @@ jobs:
         - name: ls
           run: |
             echo "HolA Mundo" >> hola.txt
-            apg-get install nginx curl
+            cat hola.txt
