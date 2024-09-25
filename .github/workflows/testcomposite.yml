@@ -7,8 +7,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+        - name: Checkout code
+          uses: actions/checkout@v3
 
-    - name: ls
-      uses: ./.github/actions/my-action
+        - name: ls
+          uses: ./.github/actions/my-action
