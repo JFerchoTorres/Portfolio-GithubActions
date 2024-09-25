@@ -3,8 +3,6 @@ name: Test
 on: [push]
 
 jobs:
-    local-action:
-        runs-on: ubuntu
     test-build:
         runs-on: ubuntu-latest
 
